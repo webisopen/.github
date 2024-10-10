@@ -5,7 +5,7 @@
 </div>
 
 <h2 align="center">
-A new vision for the Internet.
+A New Vision for the Internet.
 </h2>
 
 <div align="center">
